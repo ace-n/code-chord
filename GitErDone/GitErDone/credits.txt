@@ -1,0 +1,4 @@
+﻿Code and design by Aessa Nassri.
+
+Uses the following external libraries:
+ - DiffPlex 1.2

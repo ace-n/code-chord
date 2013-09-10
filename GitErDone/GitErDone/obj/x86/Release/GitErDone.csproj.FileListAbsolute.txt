@@ -1,0 +1,12 @@
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\bin\Release\GitErDone.exe
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\bin\Release\GitErDone.pdb
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\bin\Release\DiffPlex.dll
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\bin\Release\DiffPlex.pdb
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GitErDone.Form1.resources
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GitErDone.Properties.Resources.resources
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GitErDone.exe
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GitErDone.pdb
+C:\Users\Ace\My Code\GitErDone\GitErDone\GitErDone\obj\x86\Release\GitErDone.Data_Visualization__Frontend_.BarChart.resources
